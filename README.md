@@ -2,7 +2,7 @@
 
 Dark mode style for Standard Notes' listed blogging platform.
 
-## Demo
+## Demo 23
 
 Check out [this post on changelog.ceiphr.com](https://changelog.ceiphr.com/akDt1eCSK3) 
 (https://changelog.ceiphr.com/akDt1eCSK3) to preview the theme with a test markdown page.
